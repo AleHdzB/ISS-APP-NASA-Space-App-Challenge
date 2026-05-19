@@ -1,16 +1,95 @@
-# React + Vite
+# ISS APP 🚀🛰️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![ISS APP Preview](./assets/ISS_APP.gif)
 
-Currently, two official plugins are available:
+An interactive web application developed for the **NASA International Space Apps Challenge** focused on tracking and visualizing information related to the **International Space Station (ISS)** using real-time space data and modern web technologies.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The project was created as part of the global NASA hackathon initiative that encourages developers, designers, scientists, and innovators to build solutions using open NASA data.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🛰️ Interactive visualization interface
+- 📱 Responsive web design
+- ⚡ Dynamic frontend experience
+- 🎨 Modern and intuitive UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Live Demo
+
+🌌 Explore the project here:
+
+👉 https://alehdzb.github.io/ISS-APP-NASA-Space-App-Challenge/
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- REST APIs
+- NASA / ISS open data
+
+---
+
+## ⚙️ Installation & Usage
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/AleHdzB/ISS-APP-NASA-Space-App-Challenge.git
+```
+
+2. Navigate to the project folder
+
+```bash
+cd ISS-APP-NASA-Space-App-Challenge
+```
+
+3. Open the project
+
+Open `index.html` in your preferred browser.
+
+---
+
+## 🌎 About NASA Space Apps Challenge
+
+The NASA International Space Apps Challenge is a global hackathon where participants create innovative solutions using NASA’s open data to solve challenges related to Earth and space exploration.
+
+---
+
+## 🎯 Learning Objectives
+
+This project was developed to strengthen skills in:
+
+- API integration
+- Frontend web development
+- JavaScript asynchronous programming
+- Data visualization
+- Responsive UI design
+- Team-based hackathon development
+
+---
+
+## 🌱 Future Improvements
+
+- Add real-time orbital visualization
+- Implement 3D Earth rendering
+- Add astronaut and mission information
+- Integrate weather and Earth observation layers
+- Improve mobile responsiveness
+- Add multilingual support
+
+---
+
+## 👨‍💻 Author
+
+Developed by Alejandro Hernández
+
+- GitHub: https://github.com/AleHdzB
+- Repository: https://github.com/AleHdzB/ISS-APP-NASA-Space-App-Challenge
+
+---
