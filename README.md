@@ -76,10 +76,6 @@ This project was developed to strengthen skills in:
 
 ## 🌱 Future Improvements
 
-- Add real-time orbital visualization
-- Implement 3D Earth rendering
-- Add astronaut and mission information
-- Integrate weather and Earth observation layers
 - Improve mobile responsiveness
 - Add multilingual support
 
